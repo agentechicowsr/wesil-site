@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wesil.com.br/sitemap.xml
